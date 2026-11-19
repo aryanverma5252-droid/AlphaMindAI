@@ -256,3 +256,25 @@ footer p {
     padding: 65px 7%;
   }
 }
+.founder {
+  color: #a9b8ce;
+  font-size: 17px;
+  margin: 15px 0;
+}
+
+.founder strong,
+.founder-about strong {
+  color: #168cff;
+}
+
+.founder-label {
+  color: #168cff;
+  font-size: 12px;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+.founder-about {
+  margin-top: 20px;
+  color: #a9b8ce;
+}
